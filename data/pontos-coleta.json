@@ -1,1 +1,95 @@
-
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Rio do Sul",
+  "pontos_coleta": [
+    {
+      "id_ponto": 1,
+      "nome_local": "Ecoponto Municipal de Resíduos Especiais",
+      "endereco": "Parque do Farol",
+      "bairro": "Canoas",
+      "cidade": "Rio do Sul",
+      "contato": "(47) 3531-1140 (Secretaria de Meio Ambiente)",
+      "materiais_aceitos": [
+        "monitores",
+        "televisores",
+        "computadores",
+        "celulares",
+        "aparelhos de som",
+        "periféricos",
+        "pilhas",
+        "baterias",
+        "lâmpadas fluorescentes"
+      ],
+      "procedimento": {
+        "horario_atendimento": "Segunda a Sábado, das 09h40 às 13h e das 14h30 às 18h30",
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega voluntária no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "Decreto / Notícia Oficial de Inauguração",
+          "arquivo": "evidencias/ecoponto-parque-farol.png"
+        }
+      ]
+    },
+    {
+      "id_ponto": 2,
+      "nome_local": "Associação Recicla Rio do Sul",
+      "endereco": "Rua Waldemar Pabst, nº 47",
+      "bairro": "Bela Aliança",
+      "cidade": "Rio do Sul",
+      "contato": "(47) 8904-2727",
+      "materiais_aceitos": [
+        "máquinas de lavar",
+        "micro-ondas",
+        "geladeiras",
+        "placas-mãe",
+        "fontes",
+        "mouses",
+        "teclados",
+        "gabinetes",
+        "cabos elétricos"
+      ],
+      "procedimento": {
+        "horario_atendimento": "Horário comercial sob agendamento ou campanhas anuais",
+        "precisa_agendamento": true,
+        "possui_custo": false,
+        "modalidade": "misto (entrega agendada ou mutirão de recolhimento nos bairros)"
+      },
+      "evidencias": [
+        {
+          "tipo": "Folder da Campanha Recicla CDL",
+          "arquivo": "evidencias/recicla-rio-do-sul.png"
+        }
+      ]
+    },
+    {
+      "id_ponto": 3,
+      "nome_local": "Ponto de Coleta Centralizada de Mirim Doce",
+      "endereco": "Rua Principal da Prefeitura, Centro",
+      "bairro": "Centro",
+      "cidade": "Mirim Doce",
+      "contato": "(47) Prefeitura Municipal",
+      "materiais_aceitos": [
+        "computadores",
+        "notebooks",
+        "celulares",
+        "carregadores",
+        "pilhas"
+      ],
+      "procedimento": {
+        "horario_atendimento": "Segunda a Sexta, em horário de expediente público",
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega voluntária / campanhas municipais periódicas"
+      },
+      "evidencias": [
+        {
+          "tipo": "Foto do local / Divulgação interna municipal",
+          "arquivo": "evidencias/ponto-mirim-doce.png"
+        }
+      ]
+    }
+  ]
+}
