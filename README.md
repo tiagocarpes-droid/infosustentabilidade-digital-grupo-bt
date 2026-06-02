@@ -1,8 +1,8 @@
 # 🌍 Projeto EcoPoints: Mapeamento de Lixo Eletrônico (Rio do Sul & Mirim Doce)
 
 ## 👥 Integrantes
-* **Bruno Medeiros Caetano**
-* **Tiago Brehmer Carpes**
+* Bruno Medeiros Caetano
+* Tiago Brehmer Carpes
 
 ---
 
