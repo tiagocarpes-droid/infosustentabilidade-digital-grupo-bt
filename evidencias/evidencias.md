@@ -7,22 +7,22 @@ Este documento reúne os registros e fontes que comprovam a existência dos pont
 ## 🔍 Evidências Coletadas
 
 ### 1. Ecoponto Municipal de Resíduos Especiais (Rio do Sul)
-* **Tipo de Evidência:** Print de Notícia Oficial e Registro de Campo.
+* **Tipo de Evidência:** Website.
 * **Descrição:** Comprovação da inauguração do Ecoponto físico localizado no Parque do Farol (Bairro Canoas) para entrega voluntária da população.
 * **Data da Verificação:** 25/05/2026
-* **Link/Fonte:** [Notícia de Lançamento - Prefeitura de Rio do Sul](https://riodosul.sc.gov.br) *(ou insira o link da notícia real / caminho da imagem `evidencias/foto_ecoponto.png`)*
+* **Link/Fonte:** [Prefeitura de Rio do Sul](https://www.riodosul.sc.gov.br/cidadao/noticia/entrega-oficial-do-ecoponto-de-rio-do-sul-sera-na-quintafeira-16)
 
 ### 2. Associação Recicla Rio do Sul
-* **Tipo de Evidência:** Print de Divulgação Institucional.
-* **Descrição:** Validação do ponto operacional na Rua Waldemar Pabst (Bela Aliança) e histórico de parcerias com as campanhas do "Recicla CDL".
+* **Tipo de Evidência:** Website.
+* **Descrição:** Página da Associação Recicla Rio do Sul no Mapa das OSC.
 * **Data da Verificação:** 25/05/2026
-* **Link/Fonte:** [Campanhas CDL Rio do Sul](https://cdlriodosul.com.br) *(ou caminho da imagem `evidencias/print_noticia_prefeitura.png`)*
+* **Link/Fonte:** [Associação Recicla Rio do Sul]([https://cdlriodosul.com.br)
 
 ### 3. Secretaria da Agricultura, Meio Ambiente e Pesca (Mirim Doce)
-* **Tipo de Evidência:** Registro de Atendimento Municipal.
-* **Descrição:** Centralização do recebimento de resíduos de informática e eletrônicos de pequeno porte diretamente na sede da secretaria, na Rua Alfredo Cordeiro.
+* **Tipo de Evidência:** Website.
+* **Descrição:** Canal oficial para contato com a secretaria.
 * **Data da Verificação:** 25/05/2026
-* **Link/Fonte:** [Portal do Município de Mirim Doce](https://mirimdoce.sc.gov.br)
+* **Link/Fonte:** [Secretaria do Meio Ambiente](https://mirimdoce.sc.gov.br/pagina-6348/)
 
 ---
 
