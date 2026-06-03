@@ -2,8 +2,8 @@
 
 ## 👥 Integrantes
 * Bruno Medeiros Caetano
-* Tiago Brehmer Carpes
 * Cauan Brignoli
+* Tiago Brehmer Carpes
 
 ---
 
