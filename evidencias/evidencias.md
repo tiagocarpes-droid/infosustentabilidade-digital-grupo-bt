@@ -1,10 +1,10 @@
-# 📂 Evidências do Projeto e Considerações Finais
+# 📂 Evidências do Projeto
 
-Este documento reúne os registros e fontes que comprovam a existência dos pontos de coleta pesquisados, seguido pela análise crítica do grupo sobre a situação do descarte de lixo eletrônico em Rio do Sul e Mirim Doce.
+Este documento reúne os registros, links e validações que comprovam a execução das etapas do projeto e a correta manipulação dos dados nas plataformas utilizadas.
 
 ---
 
-## 🔍 Evidências Coletadas
+## 🔍 Evidências da Pesquisa Anterior
 
 ### 1. Ecoponto Municipal de Resíduos Especiais (Rio do Sul)
 * **Tipo de Evidência:** Website.
@@ -14,36 +14,55 @@ Este documento reúne os registros e fontes que comprovam a existência dos pont
 
 ### 2. Associação Recicla Rio do Sul
 * **Tipo de Evidência:** Website.
-* **Descrição:** Página da Associação Recicla Rio do Sul no Mapa das OSC.
+* **Descrição:** Página de divulgação institucional / campanhas integradas de recolhimento.
 * **Data da Verificação:** 25/05/2026
-* **Link/Fonte:** [Associação Recicla Rio do Sul]([https://cdlriodosul.com.br)
+* **Link/Fonte:** [Associação Recicla Rio do Sul](https://cdlriodosul.com.br)
 
 ### 3. Secretaria da Agricultura, Meio Ambiente e Pesca (Mirim Doce)
 * **Tipo de Evidência:** Website.
-* **Descrição:** Canal oficial para contato com a secretaria.
+* **Descrição:** Canal oficial para contato e informações de atendimento com a secretaria.
 * **Data da Verificação:** 25/05/2026
 * **Link/Fonte:** [Secretaria do Meio Ambiente](https://mirimdoce.sc.gov.br/pagina-6348/)
 
 ---
 
-## 🧠 Considerações Finais & Análise Crítica
+## 📊 Evidências da Planilha
 
-Com base nos dados levantados na planilha e no banco de dados do Supabase, o grupo estruturou o diagnóstico socioambiental de cada local avaliado:
+* **Link do Google Sheets:** [Acesse a Planilha de Dados](https://docs.google.com/spreadsheets/d/1QEevjYDuKf4PMGQ7beyzwrYFjewioKHFY93ikFqohRA/edit?usp=sharing)
+* **Lista das Abas Criadas:** * `Pontos de Coleta`
+  * `Materiais Aceitos`
+  * `Procedimentos de Descarte`
+  * `Evidências`
+  * `Análises Críticas`
 
-### 🏙️ Rio do Sul (Ecoponto Municipal)
-* **Facilidade:** Oferece um ponto de entrega fixo e objetivo, contando com um horário estendido muito favorável ao trabalhador comum.
-* **Dificuldades:** Não possui estrutura robusta para receber grandes volumes ou lotes pesados de resíduos de uma única vez.
-* **Divulgação:** A prefeitura realizou a divulgação inicial em seu site institucional, porém há uma falha na continuidade: não foram encontradas notícias em redes sociais de grande massa, o que limita o alcance diário da informação.
-* **Melhorias Sugeridas:** Iniciar campanhas contínuas e posts informativos nas redes sociais oficiais da prefeitura.
+---
 
-### ♻️ Rio do Sul (Associação Recicla)
-* **Facilidade:** Diferencia-se por aceitar tipos maiores de lixo eletrônico, incluindo os equipamentos de linha branca (geladeiras, micro-ondas, etc.).
-* **Dificuldades:** Dependência de calendários específicos de mutirões municipais para o recolhimento nos bairros, dificultando o descarte para quem não possui veículo utilitário próprio.
-* **Divulgação:** Divulgação ativa em canais parceiros como o Instagram da associação e forte apoio institucional da CDL.
-* **Melhorias Sugeridas:** Criar rotas móveis e itinerantes fixas nos bairros mais afastados do Centro de forma periódica.
+## 🐙 Evidências do GitHub
 
-### 🌲 Mirim Doce (Secretaria Municipal)
-* **Facilidade:** Centralização do recebimento e triagem em um órgão público confiável diretamente na área central da cidade.
-* **Dificuldades:** O município possui grandes extensões rurais, o que torna o deslocamento até o ponto centralizado um desafio para os moradores do interior.
-* **Divulgação:** Falta de canais digitais permanentes e didáticos detalhando o fluxo diário ou os dias específicos de descarte.
-* **Melhorias Sugeridas:** Desenvolver campanhas de recolhimento móvel sazonais que visitem as associações e comunidades do interior da cidade.
+Mapeamento de participação e divisão mínima de tarefas documentada no histórico do repositório:
+
+* **Integrante 1 (Bruno Medeiros Caetano):** Criou e editou o conteúdo do arquivo `README.md`.
+* **Integrante 2 (Cauan Brignoli):** Criou e editou o conteúdo do arquivo `evidencias.md`.
+* **Integrante 3 (Tiago Brehmer Carpes):** Criou e editou os arquivos `modelo-dados.md`, `orientacao-descarte.md`, etc.
+
+---
+
+## ⚡ Evidências do Supabase
+
+* **Nome do Projeto:** `tiagocarpes-droid's Project`
+* **Organização:** `tiagocarpes-droid's Org`
+* **Tabelas Criadas no Banco de Dados:**
+  * `pontos_coleta` — Tabela base contendo o cadastro dos locais físicos mapeados.
+  * `materiais_aceitos` — Relacionada à tabela base, contendo a triagem de eletrônicos aceitos.
+  * `procedimentos_descarte` — Relacionada à tabela base, contendo as regras de horários e custos.
+  * `evidencias` — Relacionada à tabela base, guardando os registros digitais de comprovação.
+  * `analises_criticas` — Tabela independente armazenando as avaliações por município.
+
+---
+
+## 💻 Consulta SQL Executada?
+
+* **Executada com Sucesso:** Sim.
+* **Descrição da Operação:** O script SQL foi processado no editor nativo do Supabase. Foi realizada com êxito a inserção dos dados reais coletados na pesquisa, seguida pelo teste de cruzamento relacional via múltiplos comandos `INNER JOIN` ligando as chaves estrangeiras (`id_ponto`).
+* **Dificuldades e Aprendizados do Grupo:** * *Dificuldades:* Entender inicialmente como funcionavam os relacionamentos e chaves estrangeiras (`REFERENCES`) para evitar dados órfãos, e ajustar a nomenclatura exata exigida pelo modelo padrão do professor.
+  * *Aprendizados:* Compreendemos na prática como um banco de dados relacional é muito mais eficiente do que manter arquivos estáticos, permitindo que consultas complexas unifiquem dados de tabelas separadas em segundos através do `INNER JOIN`.
