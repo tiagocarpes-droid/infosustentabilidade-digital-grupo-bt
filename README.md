@@ -44,7 +44,7 @@ O avanço tecnológico acelerado gera um volume massivo de lixo eletrônico (*e-
 
 ## 🔗 Links do Projeto
 * 📊 [Acesse a Planilha de Dados](https://docs.google.com/spreadsheets/d/1QEevjYDuKf4PMGQ7beyzwrYFjewioKHFY93ikFqohRA/edit?usp=sharing)
-* ⚡ [Acesse o Painel do Supabase](INSIRA_O_LINK_DO_SEU_SUPABASE_AQUI)
+* ⚡ [Acesse o Painel do Supabase](https://supabase.com/dashboard/project/urfovodezkpvvdihajqu)
 
 ---
 
