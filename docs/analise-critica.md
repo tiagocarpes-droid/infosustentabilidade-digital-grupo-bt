@@ -1,28 +1,24 @@
+# 🧠 Análise Crítica Socioambiental: Rio do Sul & Mirim Doce
 
-# 🗺️ Guia de Orientação para Descarte de Lixo Eletrônico
-
-Este guia orienta os cidadãos de Rio do Sul e Mirim Doce sobre como realizar o descarte correto de seus resíduos eletroeletrônicos nos pontos mapeados.
-
----
-
-## 📍 Como Descartar em Rio do Sul
-
-### 1. Ecoponto Municipal (Parque do Farol)
-* **Público-alvo:** População em geral (Pessoa Física).
-* **O que fazer antes de ir:** Certifique-se de que o equipamento não está quebrado/vazando componentes químicos perigosos (como pilhas estouradas). 
-* **Regras de Acesso:** Não há custo e não precisa agendar. É chegar, descarregar no local indicado pelos técnicos e assinar a lista de controle se solicitado.
-* **Atenção:** Não envie grandes volumes de empresas sem consulta prévia.
-
-### 2. Associação Recicla Rio do Sul (Bela Aliança)
-* **Público-alvo:** População geral e comerciantes que possuam resíduos volumosos.
-* **O que fazer antes de ir:** É obrigatório entrar em contato previamente pelo telefone para alinhar o recebimento ou aguardar os mutirões organizados em parceria com a CDL.
-* **Regras de Acesso:** Gratuito, focado no reaproveitamento de carcaças e reciclagem de placas de circuito.
+Análise do grupo sobre a infraestrutura e os desafios logísticos encontrados na gestão do lixo eletrônico no Alto Vale do Itajaí.
 
 ---
 
-## 📍 Como Descartar em Mirim Doce
+## 📊 Diagnóstico por Município
 
-### 1. Secretaria da Agricultura, Meio Ambiente e Pesca (Centro)
-* **Público-alvo:** Moradores da área urbana e produtores rurais.
-* **O que fazer antes de ir:** Limpar o excesso de poeira ou terra dos aparelhos (especialmente os que vêm do interior) e transportá-los com segurança até a prefeitura.
-* **Regras de Acesso:** Entrega voluntária direta na recepção da secretaria durante o horário de expediente público. Atendimento gratuito.
+### 🏢 Rio do Sul
+A maior cidade do Alto Vale apresenta uma estrutura promissora com o novo Ecoponto Municipal no Parque do Farol e a atuação histórica da Associação Recicla. No entanto, o grupo identificou duas falhas críticas:
+1. **Gargalo de Volume:** O ecoponto foca no descarte doméstico diário, carecendo de um fluxo contínuo e integrado de destinação em massa para lixo eletrônico industrial pesado.
+2. **Abismo de Divulgação:** O site institucional da prefeitura informa o endereço, mas o cidadão comum que consome redes sociais (Instagram/TikTok/Facebook) não é impactado por campanhas de conscientização sobre o lixo digital.
+
+### 🌲 Mirim Doce
+Por se tratar de um município menor e com forte presença rural, o desafio se inverte:
+1. **Barreira Geográfica:** Centralizar a coleta na Secretaria de Meio Ambiente resolve o problema da área urbana, mas pune o morador das comunidades do interior, que muitas vezes acumula o lixo eletrônico em galpões por falta de transporte até o Centro.
+2. **Invisibilidade Digital:** Não existem materiais educativos fixos ensinando o morador local sobre os perigos de descartar baterias e placas no lixo comum ou de enterrá-los no solo.
+
+---
+
+## 💡 Propostas de Melhoria do Grupo
+
+* **Para Rio do Sul:** Criação de um cronograma de postagens mensais nas redes de grande alcance da prefeitura e sinalização visual nas principais vias indicando a rota do Ecoponto.
+* **Para Mirim Doce:** Criação do programa "Interior Limpo", utilizando os caminhões que já fazem as rotas de apoio à agricultura para recolher eletrônicos nas sedes de comunidades rurais uma vez a cada trimestre.
